@@ -12,6 +12,9 @@
     width: 100%;
   }
   
+  .greeting {
+    text-align: center;
+  }
   
   .brand {
     display: flex;
